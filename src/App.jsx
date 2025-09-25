@@ -6,7 +6,7 @@ import InputBox from "./Components/InputBox";
 const App = () => {
   const [messages, setMessages] = useState([]);
   const [isTyping, setIsTyping] = useState(false);
-  const [isDarkTheme, setIsDarkTheme] = useState(true);
+  const [isDarkTheme, setIsDarkTheme] = useState(false);
 
   // Theme definitions - updated for modern design
   const theme = {
