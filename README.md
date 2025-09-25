@@ -30,7 +30,7 @@ Run in development mode
 npm run dev
 ```
 
-Open the URL shown in the terminal (usually http://localhost:5173) to view the app.
+Open the URL shown in the terminal ((https://weather-app-bice-one-44.vercel.app/)) to view the app.
 
 Build for production
 
